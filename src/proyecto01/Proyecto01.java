@@ -24,7 +24,7 @@ public class Proyecto01 {
         promedio = (suma / 2);
         
         
-        //Salida
+        //Salida DE DATOS
         System.out.println("LA SUMA ES: "+suma);
         System.out.println("EL PROMEDIO ES: "+promedio);
         
